@@ -1,1 +1,1 @@
-Hi
+Hi there! This is the file contains most of the data projects I did in Columbia University and some of the codes. Unfortunately, the data is not available to post here since they are private sources. But feel free to comment or download the coding files if they can help you!
